@@ -1,0 +1,34 @@
+# Diretórios
+bkp/
+teste/
+testes/
+utils/
+
+# Arquivos
+bkp-*.txt
+bkp-*.md
+bkp-*.html
+bkp-*.css
+bkp-*.js
+bkp-*.php
+---
+*-bkp.txt
+*-bkp.md
+*-bkp.html
+*-bkp.css
+*-bkp.js
+*-bkp.php
+---
+teste-*.txt
+teste-*.md
+teste-*.html
+teste-*.css
+teste-*.js
+teste-*.php
+---
+*-teste.txt
+*-teste.md
+*-teste.html
+*-teste.css
+*-teste.js
+*-teste.php
